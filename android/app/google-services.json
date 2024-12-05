@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15839547586",
+    "project_id": "flutter-appcolono",
+    "storage_bucket": "flutter-appcolono.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15839547586:android:87eee0494f2b999e066b5b",
+        "android_client_info": {
+          "package_name": "com.app_colono.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fKst0rONOtrITVmwab3U_Yo2dso5fm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15839547586:android:3924790541d2c671066b5b",
+        "android_client_info": {
+          "package_name": "com.appcolono.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fKst0rONOtrITVmwab3U_Yo2dso5fm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
